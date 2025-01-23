@@ -35,7 +35,7 @@ Diese App fungiert als Lehrbeispiel für die Implementierung von lokaler Datenpe
 
 1. **Repository klonen**:
    ```bash
-   git clone https://github.com/dein-repository-link/ToDo-App.git
+   git clone https://github.com/UnicornPikaa/ToDoAbgabe9.git
    2. Projekt in Android Studio öffnen
 3. **Gradle-Sync durchführen**
 4. **Emulator mit API 34 (Pixel 8)** erstellen oder verwenden
