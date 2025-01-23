@@ -40,3 +40,10 @@ Diese App fungiert als Lehrbeispiel für die Implementierung von lokaler Datenpe
 3. **Gradle-Sync durchführen**
 4. **Emulator mit API 34 (Pixel 8)** erstellen oder verwenden
 5. **App ausführen**
+
+## Bekannte Probleme
+
+1. **Fehlende Datenbank-Initialisierung**
+2. **Emulator-spezifische Fehler**
+3. **UI-Fehler bei bestimmten Bildschirmgrößen**
+4. **Performanceprobleme**
